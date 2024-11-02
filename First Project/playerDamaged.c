@@ -1,9 +1,9 @@
-#include "main.h"
+#include "playerFunctions.h"
 #include <stdio.h>
 
 // Matthew Romano - October 30th, 2024
 
-// When the player takes damage this calculates that
+// when player takes damage this calculates what to return
 
 playerDamaged(int playerHealth, int enemyDamage) {
 

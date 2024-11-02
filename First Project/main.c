@@ -1,4 +1,4 @@
-#include "main.h"
+#include "playerFunctions.h"
 #include <stdio.h>
 
 // Matthew Romano - October 30th, 2024

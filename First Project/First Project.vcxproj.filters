@@ -21,9 +21,12 @@
     <ClCompile Include="playerDamaged.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="playerHealed.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="main.h">
+    <ClInclude Include="playerFunctions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

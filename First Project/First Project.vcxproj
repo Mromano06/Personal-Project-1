@@ -129,9 +129,10 @@
   <ItemGroup>
     <ClCompile Include="main.c" />
     <ClCompile Include="playerDamaged.c" />
+    <ClCompile Include="playerHealed.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="main.h" />
+    <ClInclude Include="playerFunctions.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
